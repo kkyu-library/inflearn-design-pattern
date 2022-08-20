@@ -1,5 +1,6 @@
 package com.example._01_creational_patterns._01_singleton
 
+import com.example._01_creational_patterns._01_singleton.kt.Settings
 import org.junit.jupiter.api.Test
 
 internal class SettingsTest {
