@@ -3,7 +3,7 @@
 ### 섹션 1. 객체 생성 관련 디자인 패턴
 
 - <a href="md/01.Singleton.md">싱글톤 패턴 (Singleton)</a>
-- 팩토리 메소드 패턴 (Factory Method)
+- <a href="md/02.Factory Method.md">팩토리 메소드 패턴 (Factory Method)</a>
 - 추상 팩토리 패턴 (Abstract Factory)
 - 빌더 패턴 (Builder)
 - 프로토타입 패턴 (Prototype)
