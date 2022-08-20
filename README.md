@@ -4,7 +4,7 @@
 
 - <a href="md/01.Singleton.md">싱글톤 패턴 (Singleton)</a>
 - <a href="md/02.Factory Method.md">팩토리 메소드 패턴 (Factory Method)</a>
-- 추상 팩토리 패턴 (Abstract Factory)
+- <a href="md/03.Abstract Factory.md">추상 팩토리 패턴 (Abstract Factory)</a>
 - 빌더 패턴 (Builder)
 - 프로토타입 패턴 (Prototype)
 
