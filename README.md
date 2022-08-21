@@ -5,8 +5,8 @@
 - <a href="md/01.Singleton.md">싱글톤 패턴 (Singleton)</a>
 - <a href="md/02.Factory Method.md">팩토리 메소드 패턴 (Factory Method)</a>
 - <a href="md/03.Abstract Factory.md">추상 팩토리 패턴 (Abstract Factory)</a>
-- 빌더 패턴 (Builder)
-- 프로토타입 패턴 (Prototype)
+- <a href="md/04.Builder.md">빌더 패턴 (Builder)</a>
+- <a href="md/05.Prototype.md">프로토타입 패턴 (Prototype)</a>
 
 ### 섹션 2. 구조 관련 디자인 패턴
 
