@@ -4,7 +4,7 @@ import com.example._02_structural_patterns._06_adapter.java._02_after.security.U
 
 public class AccountUserDetails implements UserDetails {
 
-    private Account account;
+    private final Account account;
 
     public AccountUserDetails(Account account) {
         this.account = account;

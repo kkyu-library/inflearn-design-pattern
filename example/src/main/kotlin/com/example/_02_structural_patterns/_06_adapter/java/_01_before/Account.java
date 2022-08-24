@@ -31,5 +31,4 @@ public class Account {
     public void setEmail(String email) {
         this.email = email;
     }
-
 }
