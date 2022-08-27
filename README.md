@@ -13,7 +13,7 @@
 - <a href="md/_02_structural_patterns/06.Adapter.md">어댑터 패턴 (Adapter)</a>
 - <a href="md/_02_structural_patterns/07.Bridge.md">브릿지 패턴 (Bridge)</a>
 - <a href="md/_02_structural_patterns/08.Composite.md">컴포짓 패턴 (Composite)</a>
-- 데코레이터 패턴 (Decorator)
+- <a href="md/_02_structural_patterns/09.Decorator.md">데코레이터 패턴 (Decorator)</a>
 - 퍼사드 패턴 (Facade)
 - 플라이웨이트 패턴 (Flyweight)
 - 프록시 패턴 (Proxy)
