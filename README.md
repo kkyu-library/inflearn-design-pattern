@@ -11,7 +11,7 @@
 ### 섹션 2. 구조 관련 디자인 패턴
 
 - <a href="md/_02_structural_patterns/06.Adapter.md">어댑터 패턴 (Adapter)</a>
-- 브릿지 패턴 (Bridge)
+- <a href="md/_02_structural_patterns/07.Bridge.md">브릿지 패턴 (Bridge)</a>
 - 컴포짓 패턴 (Composite)
 - 데코레이터 패턴 (Decorator)
 - 퍼사드 패턴 (Facade)
