@@ -15,7 +15,7 @@
 - <a href="md/_02_structural_patterns/08.Composite.md">컴포짓 패턴 (Composite)</a>
 - <a href="md/_02_structural_patterns/09.Decorator.md">데코레이터 패턴 (Decorator)</a>
 - <a href="md/_02_structural_patterns/10.Facade.md">퍼사드 패턴 (Facade)</a>
-- 플라이웨이트 패턴 (Flyweight)
+- <a href="md/_02_structural_patterns/11.Flyweight.md">플라이웨이트 패턴 (Flyweight)</a>
 - 프록시 패턴 (Proxy)
 
 ### 섹션 3. 행동 관련 디자인 패턴
