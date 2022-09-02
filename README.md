@@ -21,7 +21,7 @@
 ### 섹션 3. 행동 관련 디자인 패턴
 
 - <a href="md/_03_behavioral_patterns/13.Chain of Responsibility.md">책임 연쇄 패턴 (Chain of Responsibility)</a>
-- 커맨드 패턴 (Command)
+- <a href="md/_03_behavioral_patterns/14.Command.md">커맨드 패턴 (Command)</a>
 - 인터프리터 패턴 (Interpreter)
 - 이터레이터 패턴 (Iterator)
 - 중재자 패턴 (Mediator)
