@@ -22,7 +22,7 @@
 
 - <a href="md/_03_behavioral_patterns/13.Chain of Responsibility.md">책임 연쇄 패턴 (Chain of Responsibility)</a>
 - <a href="md/_03_behavioral_patterns/14.Command.md">커맨드 패턴 (Command)</a>
-- 인터프리터 패턴 (Interpreter)
+- <a href="md/_03_behavioral_patterns/15.Interpreter.md">인터프리터 패턴 (Interpreter)</a>
 - 이터레이터 패턴 (Iterator)
 - 중재자 패턴 (Mediator)
 - 메멘토 패턴 (Memento)
