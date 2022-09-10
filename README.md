@@ -25,7 +25,7 @@
 - <a href="md/_03_behavioral_patterns/15.Interpreter.md">인터프리터 패턴 (Interpreter)</a>
 - <a href="md/_03_behavioral_patterns/16.Iterator.md">이터레이터 패턴 (Iterator)</a>
 - <a href="md/_03_behavioral_patterns/17.Mediator.md">중재자 패턴 (Mediator)</a>
-- 메멘토 패턴 (Memento)
+- <a href="md/_03_behavioral_patterns/18.Memento.md">메멘토 패턴 (Memento)</a>
 - 옵저버 패턴 (Observer)
 - 상태 패턴 (State)
 - 전략 패턴 (Strategy)
