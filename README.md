@@ -30,4 +30,4 @@
 - <a href="md/_03_behavioral_patterns/20.State.md">상태 패턴 (State)</a>
 - <a href="md/_03_behavioral_patterns/21.Strategy.md">전략 패턴 (Strategy)</a>
 - <a href="md/_03_behavioral_patterns/22.Template Method.md">템플릿 메소드 패턴 (Template Method)</a>
-- 비지터 패턴 (Visitor)
+- <a href="md/_03_behavioral_patterns/23.Visitor.md">비지터 패턴 (Visitor)</a>
